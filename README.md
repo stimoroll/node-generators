@@ -1,3 +1,3 @@
-# node-esurtr
+# node-generators
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-esurtr)
